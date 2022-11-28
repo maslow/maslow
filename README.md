@@ -10,4 +10,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=maslow)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=maslow)
